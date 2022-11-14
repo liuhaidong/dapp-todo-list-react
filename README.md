@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+npx create-react-app eth-todo-list-react 
+
+npm install --save bootstrap
+
+cd eth-todo-list-react
+
+npm start  
+
+
+truffle init
+
+truffle create contract TodoList
+# dapp-todo-list-react
